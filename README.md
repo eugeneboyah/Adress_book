@@ -1,7 +1,6 @@
 # Adress_book
-
-# Freatures 
-# We will implement a Adress Book with options giving below:
+- We will implement a Adress Book with options giving below:
+# These are the freatures below:
 + creat a Aderss Book
 + view adress book
 + insert a record
