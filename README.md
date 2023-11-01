@@ -13,6 +13,7 @@
 + Function
 + Variable
 + Loop
++ condition
 
 - 
 
