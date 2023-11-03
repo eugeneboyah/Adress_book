@@ -1,205 +1,358 @@
-CountryName               ,Capital,Currency,OfficialLanguage, Head of government,,,,,,
-Afghanistan,Kabul,Afghani,Dari Persian,President - Hasan Akhund,,,,,,
-Albania,Tirane,Lek,Albanian,Prime Minister – Edi Rama  Tamazight,,,,,,
-Algeria,Algiers,Dinar,Arabic,, ,Prime Minister – Aymen Benabderrahmane,,,,
-Andorra,Andorra la Vella,Euro,Catalan,Prime Minister - Xavier Espot Zamora,,,,,,
-Angola,Luanda,New Kwanza,Portuguese,President – H.E. Joao Manuel Goncalves Lourenco,,,,,,
-Antigua and Barbuda,Saint John's,East Caribbean dollar,English,Prime Minister – Gaston Alphonso Browne,,,,,,
-Argentina,Buenos Aires,Peso,Spanish,President – Alberto Fernández,,,,,,
-Armenia,Yerevan,Dram,Armenian,President – Nikol Pashinyan,,,,,,
-Australia,Canberra,Australian dollar,English,Prime Minister  - Anthony Albanese,,,,,,
-Austria,Vienna,Euro (formerly schilling),German,President - Alexander Van der Bellen,,,,,,
-Azerbaijan,Baku,Manat,Azerbaijani,Prime Minister – Ali Asadov,,,,,,
-The Bahamas,Nassau,Bahamian dollar,English,Prime Minister – Philip Davis,,,,,,
-Bahrain,Manama,Bahrain dinar,Arabic,Prime Minister – Salman bin Hamad Al Khalifa,,,,,,
-Bangladesh,Dhaka,Taka,Bangla,Prime Minister – Sheikh Hasina,,,,,,
-Barbados,Bridgetown,Barbados dollar,English,Prime Minister – Mia Mottley,,,,,,
-Belarus,Minsk,Belorussian ruble,Belarusian,President - Roman Golovchenko,,,,,,
-Belgium,Brussels,Euro (formerly Belgian franc),Dutch, French, ,Prime Minister – Alexander De Croo,,,,
-Belize,Belmopan,Belize dollar,English,Prime Minister – Johnny Briceño,,,,,,
-Benin,Porto-Novo,CFA Franc,French,President - Patrice Talon,,,,,,
-Bhutan,Thimphu,Ngultrum,Dzongkha,Prime Minister – Lotay Tshering,,,,,,
-Bolivia,La Paz (administrative), Sucre (judicial),Boliviano,Spanish,, Aymara,President – Luis Arce,,,
-Bosnia and Herzegovina,Sarajevo,Convertible Mark,Bosnian, Croatian,,Chairman of the Council of Ministers - Borjana Krišto,,,,
-Botswana,Gaborone,Pula,English,President – Mokgweetsi Masisi,,,,,,
-Brazil,Brasilia,Real,Portuguese,President – Luiz Inácio Lula da Silva,,,,,,
-Brunei,Bandar Seri Begawan,Brunei dollar,Malay,Sultan and Prime Minister – Hassanal Bolkiah,,,,,,
-Bulgaria,Sofia,Lev,Bulgarian,Prime Minister – Nikolai Denkov,,,,,,
-Burkina Faso,Ouagadougou,CFA Franc,French,Prime Minister  - Apollinaire Joachim Kyélem de Tambèla,,,,,,
-Burundi,Gitega,Burundi franc,Kirundi,Prime Minister – Gervais Ndirakobuca,,,,,,
-Cambodia,Phnom Penh,Riel,Khmer,Prime Minister – Hun Sen,,,,,,
-Cameroon,Yaounde,CFA Franc,French,Prime Minister – Joseph Ngute,,,,,,
-Canada,Ottawa,Canadian dollar,English,Prime Minister – Justin Trudeau,,,,,,
-Cape Verde,Praia,Cape Verdean escudo,Portuguese,Prime Minister – Ulisses Correia e Silva,,,,,,
-Central African Republic,Bangui,CFA Franc,Sango,Prime Minister – Félix Moloua,,,,,,
-Chad,N'Djamena,CFA Franc,French, Arabic,,,,,,
-Chile,Santiago,Chilean Peso,Spanish,President – Gabriel Boric,,,,,,
-China,Beijing,Chinese Yuan,Mandarin,President - Xi Jinping ,,,,,,
-Colombia,Bogota,Colombian Peso,Spanish,President – Gustavo Petro,,,,,,
-Comoros,Moroni,Franc,Comorian, Arabic,,President – Azali Assoumani,,,,
-Republic of the Congo,Brazzaville,CFA Franc,French,Prime Minister –Anatole Collinet Makosso,,,,,,
-Democratic Republic of the Congo,Kinshasa,Congolese franc,French,Prime Minister – Jean-Michel Sama Lukonde,,,,,,
-Costa Rica,San Jose,Colón,Spanish,President – Rodrigo Chaves Robles,,,,,,
-Cote d'Ivoire,Yamoussoukro (official), Abidjan (de facto),CFA Franc,President - Alassane Dramane Ouattara,,,,,,
-Croatia,Zagreb,Croatian,Kuna,Prime Minister – Andrej Plenković,,,,,,
-Cuba,Havana,Cuban Peso,Spanish,Prime Minister-Manuel Marrero Cruz,,,,,,
-Cyprus,Nicosia,Euro,Greek,President – Nikos Anastasiades,,,,,,
-Czech Republic,Prague,Koruna,Czech,President – Nikos Anastasiades,,,,,,
-Denmark,Copenhagen,Danish Krone,Danish,Prime Minister – Mette Frederiksen,,,,,,
-Djibouti,Djibouti,Djiboutian franc,Arabic,Prime Minister – Abdoulkader Kamil Mohamed,,,,,,
-Dominica,Roseau,East Caribbean dollar,English,Prime Minister – Petr Fiala,,,,,,
-Antillean Creole,Prime Minister – Roosevelt Skerrit,,,,,,,,,
-Dominican Republic,Santo Domingo,Dominican Peso,Spanish,President – Luis Abinader,,,,,,
-East Timor (Timor-Leste),Dili,U.S. dollar,Tetum, Portuguese,,,,,,
-Iindonesian,Prime Minister – Xanana Gusmão,,,,,,,,,
-Ecuador,Quito,U.S. dollar,Spanish,President – Guillermo Lasso,,,,,,
-Egypt,Cairo,Egyptian pound,Arabic,Prime Minister – Moustafa Madbouly,,,,,,
-El Salvador,San Salvador,Colón, U.S. dollar,Spanish,President – Nayib Armando Bukele Ortez,,,,,
-Equatorial Guinea,Malabo,CFA Franc,Spanish, French, Portuguese,Prime Minister –Manuela Roka Botey,,,,
-Eritrea,Asmara,Nakfa,Arabic, Tigrinya, English,President – Isaias Afwerki,,,,
-Estonia,Tallinn,Estonia Kroon, Euro,Estonian,Prime Minister – Kaja Kallas,,,,,
-Ethiopia,Addis Ababa,Birr,Amharic,Prime Minister – Abiy Ahmed,,,,,,
-Fiji,Suva,Fiji dollar,English, Bau Fijian, Hindi,Prime Minister – Sitiveni Rabuka,,,,
-Finland,Helsinki,Euro (formerly markka),Finnish, Swedish,Prime Minister – Petteri Orpo,,,,,
-France,Paris,Euro (formerly French franc),French,Prime Minister- Elisabeth Borne,,,,,,
-Gabon,Libreville,CFA Franc,French,Prime Minister – Raymond Ndong Sima,,,,,,
-The Gambia,Banjul,Dalasi,English,President – Adama Barrow,,,,,,
-Georgia,Tbilisi,Lari,Georgian,Prime Minister – Irakli Garibashvili,,,,,,
-Germany,Berlin,Euro (formerly Deutsche mark),German,President - Frank-Walter Steinmeier,,,,,,
-Ghana,Accra,Cedi,English,President - Nana Akufo-Addo,,,,,,
-Greece,Athens,Euro (formerly drachma),Greek,Prime Minister –Kyriakos Mitsotakis,,,,,,
-Grenada,Saint George's,East Caribbean dollar,English, Patois,Prime Minister – Dickon Mitchell,,,,,
-Guatemala,Guatemala City,Quetzal,Spanish,President – Alejandro Giammattei,,,,,,
-Guinea,Conakry,Guinean franc,French,Prime Minister –Bernard Goumou,,,,,,
-Guinea-Bissau,Bissau,CFA Franc,Portuguese,Prime Minister – Geraldo Martins,,,,,,
-Guyana,Georgetown,Guyanese dollar,English,President -  Mark Phillips,,,,,,
-Haiti,Port-au-Prince,Gourde,Haitian Creole, French,Prime Minister – Ariel Henry,,,,,
-Honduras,Tegucigalpa,Lempira,Spanish,President – Xiomara Castro Zelaya,,,,,,
-Hungary,Budapest,Forint,Hungarian,Prime Minister – Viktor Orbán,,,,,,
-Iceland,Reykjavik,Icelandic króna,Icelandic,President - Katrín Jakobsdóttir,,,,,,
-India,New Delhi,Indian Rupee,Hindi, English,Prime Minister – Mr. Narendra Modi,,,,,
-Indonesia,Jakarta,Rupiah,Indonesian,President – Joko Widodo,,,,,,
-Iran,Tehran,Rial,Persian,President – Ebrahim Raisi,,,,,,
-Iraq,Baghdad,Iraqi Dinar,Arabic, Kurdish,Prime Minister  - Mohammed Shia' Al Sudani,,,,,
-Ireland,Dublin,Euro (formerly Irish pound [punt]),English, Irish,Prime Minister-Taoiseach – Leo Varadkar,,,,,
-Israel,Jerusalem*,Shekel,Hebrew, Arabic,Prime Minister –Benjamin Netanyahu,,,,,
-Italy,Rome,Euro (formerly lira),Italian,Prime Minister – Giorgia Meloni,,,,,,
-Ivory Coast,Yamoussoukro,West African CFA franc,French,Prime Minister – Patrick Achi,,,,,,
-Jamaica,Kingston,Jamaican dollar,English,Prime Minister – Andrew Holness,,,,,,
-Japan,Tokyo,Yen,Japanese,Prime Minister –Fumio Kishida,,,,,,
-Jordan,Amman,Jordanian dinar,Arabic,Prime Minister – Bishr Al-Khasawneh,,,,,,
-Kazakhstan,Nur Sultan,Tenge,Kazakh, Russian,Prime Minister – Alihan Smaiylov,,,,,
-Kenya,Nairobi,Kenya shilling,Swahili, English,President – William Ruto,,,,,
-Kiribati,Tarawa Atoll,Kiribati dollar,English, Gilbertese,President – Taneti Mamau,,,,,
-Korea, North,Pyongyang,Won,Korean,President – Kim Jong-un,,,,,
-Korea, South,Seoul,Won,Korean,Prime Minister – Yoon Suk Yeol,,,,,
-Kosovo,Pristina,Euro (German Mark prior to 2002),Albanian, Serbian,Prime Minister –Albin Kurti,,,,,
-Kuwait,Kuwait City,Kuwaiti Dollar,Arabic, English,Prime Minister – Ahmad Nawaf Al-Ahmad Al-Sabah,,,,,
-Kyrgyzstan,Bishkek,Som,Kyrgyz, Russian,President - Akylbek Japarov,,,,,
-Laos,Vientiane,New Kip,Lao (Laotian),Prime Minister –Sonexay Siphandone,,,,,,
-Latvia,Riga,Lats,Latvian,Prime Minister – Evika Siliņa,,,,,,
-Lebanon,Beirut,Lebanese pound,Arabic, French,Prime Minister –Najib Mikati,,,,,
-Lesotho,Maseru,Maluti,Sesotho, English,Prime Minister - Sam Matekane,,,,,
-Liberia,Monrovia,Liberian dollar,English,President – George Weah,,,,,,
-Libya,Tripoli,Libyan dinar,Arabic,Prime Minister – Abdul Hamid Dbeibeh,,,,,,
-Liechtenstein,Vaduz,Swiss franc,German,Prime Minister- Daniel Risch,,,,,,
-Lithuania,Vilnius,Litas,Lithuanian,Prime Minister – Ingrida Šimonytė,,,,,,
-Luxembourg,Luxembourg,Euro (formerly Luxembourg franc),German, French,,,,,,
-Luxembourgish,Prime Minister – Xavier Bettel,,,,,,,,,
-Macedonia,Skopje,Denar,Macedonian,President of the Government – Stevo Pendarovski,,,,,,
-Madagascar,Antananarivo,Malagasy Ariary,Malagasy, French, English,Prime Minister –Christian Ntsay,,,,
-Malawi,Lilongwe,Kwacha,English,President – Lazarus Chakwera,,,,,,
-Malaysia,Kuala Lumpur,Ringgit,Malay,Prime Minister – Anwar bin Ibrahim,,,,,,
-Maldives,Male,Rufiyaa,Dhivehi,President – Ibrahim Mohamed Solih,,,,,,
-Mali,Bamako,CFA Franc,French,Prime Minister- Choguel Kokalla Maïga,,,,,,
-Malta,Valletta,Euro,Maltese, English,Prime Minister – Robert Abela,,,,,
-Marshall Islands,Majuro,U.S. Dollar,Marshallese, English,President – David Kabua,,,,,
-Mauritania,Nouakchott,Ouguiya,Arabic,Prime Minister – Mohamed Ould Bilal,,,,,,
-Mauritius,Port Louis,Mauritian rupee,English,Prime Minister – Pravind Jugnauth,,,,,,
-Mexico,Mexico City,Mexican peso,Spanish,President – Andrés Manuel López Obrador,,,,,,
-Federated States of Micronesia,Palikir,U.S. Dollar,English,President – Wesley Simina,,,,,,
-Moldova,Chisinau,Leu,Moldovan (Romanian),Prime Minister – Dorin Recean,,,,,,
-Monaco,Monte Carlo,Euro,French, Italian, English,Minister of State –Pierre Dartout,,,,
-Mongolia,Ulaanbaatar,Togrog,Mongolian,Prime Minister – Luvsannamsrain Oyun-Erdene,,,,,,
-Montenegro,Podgorica,Euro,Montenegrin,Prime Minister – Dritan Abazović,,,,,,
-Morocco,Rabat,Dirham,Arabic,Prime Minister-Aziz Akhannouch,,,,,,
-Mozambique,Maputo,Metical,Portuguese,Prime Minister – Adriano Maleiane,,,,,,
-Myanmar (Burma),Nay Pyi Taw,Kyat,Burmese,President– Myint Swe,,,,,,
-Namibia,Windhoek,Namibian dollar,English, Afrikaans, German,Prime Minister – Saara Kuugongelwa-Amadhila,,,,
-Nauru,no official capital, government offices in Yaren District,Australian dollar,English, Nauran,President – Russ Kun,,,,
-Nepal,Kathmandu,Nepalese rupee,Nepali,Prime Minister – Pushpa Kamal Dahal,,,,,,
-Netherlands,Amsterdam, The Hague (seat of government),Euro (formerly guilder),Dutch,Prime Minister – Mark Rutte,,,,,
-New Zealand,Wellington,New Zealand dollar,English,Prime Minister – Chris Hipkins,,,,,,
-Nicaragua,Managua,Gold cordoba,Spanish,President – Daniel Ortega,,,,,,
-Niger,Niamey,CFA Franc,French,Prime Minister – Ali Lamine Zeine,,,,,,
-Nigeria,Abuja,Naira,English,President -  Bola Tinubu,,,,,,
-Norway,Oslo,Norwegian krone,Norwegian,Prime Minister – Jonas Gahr Støre,,,,,,
-Oman,Muscat,Omani rial,Arabic,Sultan and Prime Minister – Haitham bin Tariq,,,,,,
-Pakistan,Islamabad,Pakistani rupee,Urdu, English,Prime Minister –Anwaar ul Haq Kakar,,,,,
-Palau,Melekeok,U.S. dollar,English, Palauan,Vice President –Surangel S. Whipps Jr.,,,,,
-Palestine,Ramallah, East Jerusalem,Palestine Pound,Arabic,Prime Minister - Mohammad Shtayyeh,,,,,
-Panama,Panama City,Balboa, U.S. dollar,Spanish,President – Laurentino Cortizo,,,,,
-Papua New Guinea,Port Moresby ,Kina,English, Tok Pisin,,,,,,
-Hiri Motu,Prime Minister – James Marape,,,,,,,,,
-Paraguay,Asuncion,Guaraní,Spanish, Guarani,President –  Santiago Peña,,,,,
-Peru,Lima,Nuevo sol (1991),Spanish,President - Dina Boluarte,,,,,,
-Philippines,Manila,Peso,Filipino, English,President – Bongbong Marcos,,,,,
-Poland,Warsaw,Zloty,Polish,President – Andrzej Duda,,,,,,
-Portugal,Lisbon,Euro (formerly escudo),Portuguese,Prime Minister – António Costa,,,,,,
-Qatar,Doha,Qatari riyal,Arabic,Prime Minister – Mohammed bin Abdulrahman bin Jassim Al Thani,,,,,,
-Romania,Bucharest,Romanian Rupee,Romanian,Prime Minister –Marcel Ciolacu,,,,,,
-Russia,Moscow,Ruble,Romanian,Prime Minister –Mikhail Vladimirovich Mishustin,,,,,,
-Rwanda,Kigali,Rwandan franc,Russian,Prime Minister – Édouard Ngirente,,,,,,
-Saint Kitts and Nevis,Basseterre,East Caribbean dollar,English,Prime Minister –Terrance Drew,,,,,,
-Saint Lucia,Castries,East Caribbean dollar,English,Prime Minister – Philip J. Pierre,,,,,,
-Saint Vincent and the Grenadines,Kingstown ,East Caribbean dollar,English,Prime Minister – Ralph Gonsalves,,,,,,
-Samoa,Apia,Tala,Samoan, English,Prime Minister – Fiame Naomi Mata’afa,,,,,
-San Marino,San Marino,Euro,Italian,Head - HE Ms Maria Luisa Berti II and HE Mr Manuel Ciavatta I,,,,,,
-Sao Tome and Principe,Sao Tome,Dobra,Portuguese,Prime Minister – Patrice Trovoada,,,,,,
-Saudi Arabia,Riyadh,Riyal,Arabic,King and Prime Minister – Mohammed bin Salman,,,,,,
-Senegal,Dakar,CFA Franc,French,Prime Minister –Amadou Ba,,,,,,
-Serbia,Belgrade,Serbian Dinar,Serbian,Prime Minister – Ana Brnabić,,,,,,
-Seychelles,Victoria,Seychelles rupee,Seychellois Creole, French English,President – Wavel Ramkalawan,,,,,
-Sierra Leone,Freetown,Leone,English,President – Julius Maada Wonie Bio,,,,,,
-Singapore,Singapore,Singapore dollar,English, Chinese and Malay,,,,,,
-Tamil,Prime Minister – Lee Hsien Loong,,,,,,,,,
-Slovakia,Bratislava,Euro,Slovak,Prime Minister –Ľudovít Ódor,,,,,,
-Slovenia,Ljubljana,Slovenian tolar, euro (as of 1/1/07),Slovene,Prime Minister – Robert Golob,,,,,
-Solomon Islands,Honiara,Solomon Islands dollar,English,Prime Minister –Manasseh Sogavare,,,,,,
-Somalia,Mogadishu,Somali shilling,Somali Arabic,Prime Minister –Hamza Abdi Barre,,,,,,
-South Africa,Pretoria (administrative), Cape Town (legislative), Bloemfontein (judiciary),Rand,Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi
-Tsonga, Tswana, Venda, Xhosa, Zulu,President – Cyril Ramaphosa,,,,,
-South Sudan,Juba,Sudanese Pound,English,President – Salva Kiir Mayardit,,,,,,
-Spain,Madrid,Euro (formerly peseta),Spanish, Catalan Galician , Gasque,Prime Minister - Pedro Sánchez,,,,
-Sri Lanka,Colombo, Sri Jayewardenepura Kotte (legislative),Sri Lankan rupee,Sinhala, Tamil,Prime Minister - Dinesh Gunawardena,,,,
-Sudan,Khartoum,Sudanese Pound,Arabic, English,Prime Minister –Osman Hussein,,,,,
-Suriname,Paramaribo,Surinamese dollar,Dutch,President –Chabdrikapersad ‘Chan’ Santokhi,,,,,,
-Swaziland,Mbabane,Lilangeni,English, Swati,Prime Minister –Cleopas Dlamini,,,,,
-Sweden,Stockholm,Krona,Swedish,Prime Minister – Ulf Kristersson,,,,,,
-Switzerland,Berne,Swiss franc,German, French, Italian, Romansh,President - Alain Berset,,,
-Syria,Damascus,Syrian pound,Arabic,Prime Minister – Hussein Arnous,,,,,,
-Taiwan,Taipei,Taiwan dollar,Standard Chinese,President - Tsai Ing-wen,,,,,,
-Tajikistan,Dushanbe,somoni,Tajik, Russian,Prime Minister – Kokhir Rasulzoda,,,,,
-Tanzania,Dar es Salaam, Dodoma (legislative),Tanzanian shilling,Swahili, English,Prime Minister – Kassim Majaliwa,,,,
-Thailand,Bangkok,Baht,Thai,Prime Minister –  Srettha Thavisin,,,,,,
-Togo,Lome,CFA Franc,French,Prime Minister –Victoire Tomegah Dogbé,,,,,,
-Tonga,Nuku'alofa,Pa'anga,English,Prime Minister – Siaosi Sovaleni,,,,,,
-Trinidad and Tobago,Port-of-Spain,Trinidad and Tobago dollar,English,Prime Minister – Keith Rowley,,,,,,
-Tunisia,Tunis,Tunisian dinar,Arabic,Prime Minister-  Ahmed Hachani,,,,,,
-Turkey,Ankara,Turkish lira (YTL),Turkish,President – Recep Tayyip Erdoğan,,,,,,
-Turkmenistan,Ashgabat,Manat,Turkmen,President – Serdar Berdimuhamedow,,,,,,
-Tuvalu,Vaiaku village, Funafuti province,Tuvaluan Dollar,Tuvaluan, English,Prime Minister – Kausea Natano,,,,
-Uganda,Kampala,Ugandan new shilling,Swahili, English, Luganda,Prime Minister – Robinah Nabbanja,,,,
-Ukraine,Kiev,Hryvnia,Ukrainian,President -  Denys Shmyhal,,,,,,
-United Arab Emirates,Abu Dhabi,U.A.E. Dirham,Arabic,Prime Minister – Sheikh Mohammed bin Rashid Al Maktoum,,,,,,
-United Kingdom,London,Pound sterling,English,Prime Minister – Rishi Sunak,,,,,,
-United States of America,Washington D.C.,Dollar,English,President – Joe Biden,,,,,,
-Uruguay,Montevideo,Uruguay peso,Spanish,President – Luis Lacalle Pou,,,,,,
-Uzbekistan,Tashkent,Uzbekistani sum,Uzbek,Prime Minister – Abdulla Aripov,,,,,,
-Vanuatu,Port-Vila,Vatu,Bislama, French, English,Prime Minister –   Charlot Salwai,,,,
-Vatican City (Holy See),Vatican City,Euro,Italian,President - Fernando Vérgez Alzaga,,,,,,
-Venezuela,Caracas,Bolivar,Spanish,President – Nicolás Maduro,,,,,,
-Vietnam,Hanoi,Dong,Vietnamese,Prime Minister -Nguyễn Phú Trọng,,,,,,
-Yemen,Sanaa,Rial,Arabic,Prime Minister – Maeen Abdulmalik Saeed,,,,,,
-Zambia,Lusaka,Kwacha,English,President – Hakainde Hichilema,,,,,,
-Zimbabwe,Harare,United States dollar,English, Shona, Ndebele,President –Emmerson Mnangagwa,,,,
+CountryName,Capital,Currency,OfficialLanguage
+Afghanistan,Kabul,Afghani,Dari Persian
+Albania,Tirane,Lek,Albanian
+Algeria,Algiers,Dinar,Arabic
+Andorra,Andorra la Vella,Euro,Catalan
+Angola,Luanda,New Kwanza,Portuguese
+Antigua and Barbuda,Saint John's,East Caribbean dollar,English
+Argentina,Buenos Aires,Peso,Spanish
+Armenia,Yerevan,Dram,Armenian
+Australia,Canberra,Australian dollar,English
+Austria,Vienna,Euro (formerly schilling),German
+Azerbaijan,Baku,Manat,Azerbaijani
+The Bahamas,Nassau,Bahamian dollar,English
+Bahrain,Manama,Bahrain dinar,Arabic
+Bangladesh,Dhaka,Taka,Bangla
+Barbados,Bridgetown,Barbados dollar,English
+Belarus,Minsk,Belorussian ruble,Belarusian
+Belgium,Brussels,Euro (formerly Belgian franc),Dutch, French
+Belize,Belmopan,Belize dollar,English
+Benin,Porto-Novo,CFA Franc,French
+Bhutan,Thimphu,Ngultrum,Dzongkha
+Bolivia,La Paz (administrative), Sucre (judicial),Boliviano,Spanish, Aymara
+Bosnia and Herzegovina,Sarajevo,Convertible Mark,Bosnian, Croatian
+Botswana,Gaborone,Pula,English
+Brazil,Brasilia,Real,Portuguese
+Brunei,Bandar Seri Begawan,Brunei dollar,Malay
+Bulgaria,Sofia,Lev,Bulgarian
+Burkina Faso,Ouagadougou,CFA Franc,French
+Burundi,Gitega,Burundi franc,Kirundi
+Cambodia,Phnom Penh,Riel,Khmer
+Cameroon,Yaounde,CFA Franc,French
+Canada,Ottawa,Canadian dollar,English
+Cape Verde,Praia,Cape Verdean escudo,Portuguese
+Central African Republic,Bangui,CFA Franc,Sango
+Chad,N'Djamena,CFA Franc,French, Arabic
+Chile,Santiago,Chilean Peso,Spanish
+China,Beijing,Chinese Yuan,Mandarin
+Colombia,Bogota,Colombian Peso,Spanish
+Comoros,Moroni,Franc,Comorian, Arabic
+Republic of the Congo,Brazzaville,CFA Franc,French
+Democratic Republic of the Congo,Kinshasa,Congolese franc,French
+Costa Rica,San Jose,Colón,Spanish
+Bosnia and Herzegovina,Sarajevo,Convertible Mark,Bosnian, Croatian
+Botswana,Gaborone,Pula,English
+Brazil,Brasilia,Real,Portuguese
+Brunei,Bandar Seri Begawan,Brunei dollar,Malay
+Bulgaria,Sofia,Lev,Bulgarian
+Burkina Faso,Ouagadougou,CFA Franc,French
+Burundi,Gitega,Burundi franc,Kirundi
+Cambodia,Phnom Penh,Riel,Khmer
+Cameroon,Yaounde,CFA Franc,French
+Canada,Ottawa,Canadian dollar,English
+Cape Verde,Praia,Cape Verdean escudo,Portuguese
+Central African Republic,Bangui,CFA Franc,Sango
+Chad,N'Djamena,CFA Franc,French, Arabic
+Chile,Santiago,Chilean Peso,Spanish
+China,Beijing,Chinese Yuan,Mandarin
+Colombia,Bogota,Colombian Peso,Spanish
+Comoros,Moroni,Franc,Comorian, Arabic
+Republic of the Congo,Brazzaville,CFA Franc,French
+Democratic Republic of the Congo,Kinshasa,Congolese franc,French
+Costa Rica,San Jose,Colón,Spanish
+Cote d'Ivoire,Yamoussoukro (official), Abidjan (de facto),CFA Franc,French
+Croatia,Zagreb,Croatian,Kuna
+Cuba,Havana,Cuban Peso,Spanish
+Cyprus,Nicosia,Euro,Greek
+Czech Republic,Prague,Koruna,Czech
+Denmark,Copenhagen,Danish Krone,Danish
+Djibouti,Djibouti,Djiboutian franc,Arabic
+Dominica,Roseau,East Caribbean dollar,English
+Antillean Creole,Prime Minister – Roosevelt Skerrit
+Dominican Republic,Santo Domingo,Dominican Peso,Spanish
+East Timor (Timor-Leste),Dili,U.S. dollar,Tetum, Portuguese
+Iindonesian,Prime Minister – Xanana Gusmão
+Ecuador,Quito,U.S. dollar,Spanish
+Egypt,Cairo,Egyptian pound,Arabic
+El Salvador,San Salvador,Colón, U.S. dollar,Spanish
+Equatorial Guinea,Malabo,CFA Franc,Spanish, French, Portuguese
+Eritrea,Asmara,Nakfa,Arabic, Tigrinya, English
+Estonia,Tallinn,Estonia Kroon, Euro,Estonian
+Ethiopia,Addis Ababa,Birr,Amharic
+Fiji,Suva,Fiji dollar,English, Bau Fijian, Hindi
+Finland,Helsinki,Euro (formerly markka),Finnish, Swedish
+France,Paris,Euro (formerly French franc),French
+Gabon,Libreville,CFA Franc,French
+The Gambia,Banjul,Dalasi,English
+Georgia,Tbilisi,Lari,Georgian
+Germany,Berlin,Euro (formerly Deutsche mark),German
+Ghana,Accra,Cedi,English
+Greece,Athens,Euro (formerly drachma),Greek
+Grenada,Saint George's,East Caribbean dollar,English, PatoisPrime Minister – Dickon Mitchell
+Guatemala,Guatemala City,Quetzal,Spanish
+President – Alejandro Giammattei
+Guinea,Conakry,Guinean franc,French
+Prime Minister –Bernard Goumou
+Guinea-Bissau,Bissau,CFA Franc,PortuguesePrime Minister – Geraldo Martins
+Guyana,Georgetown,Guyanese dollar,English
+President -  Mark Phillips
+Haiti,Port-au-Prince,Gourde,Haitian Creole, FrenchPrime Minister – Ariel Henry
+Honduras,Tegucigalpa,Lempira,SpanishPresident – Xiomara Castro Zelaya
+Hungary,Budapest,Forint,Hungarian
+Prime Minister – Viktor Orbán
+Iceland,Reykjavik,Icelandic króna,IcelandicPresident - Katrín Jakobsdóttir
+CountryName,Capital,Currency,OfficialLanguage
+India,New Delhi,Indian Rupee,Hindi, English
+Prime Minister – Mr. Narendra Modi
+Indonesia,Jakarta,Rupiah,Indonesian
+President – Joko Widodo
+Iran,Tehran,Rial,Persian
+President – Ebrahim Raisi
+Iraq,Baghdad,Iraqi Dinar,Arabic, Kurdish
+Prime Minister - Mohammed Shia' Al Sudani
+Ireland,Dublin,Euro (formerly Irish pound [punt]),English, Irish
+Prime Minister-Taoiseach – Leo Varadkar
+Israel,Jerusalem*,Shekel,Hebrew, Arabic
+Prime Minister –Benjamin Netanyahu
+Italy,Rome,Euro (formerly lira),Italian
+Prime Minister – Giorgia Meloni
+Ivory Coast,Yamoussoukro (official), Abidjan (de facto),CFA Franc
+Prime Minister – Patrick Achi
+Jamaica,Kingston,Jamaican dollar,English
+Prime Minister – Andrew Holness
+Japan,Tokyo,Yen,Japanese
+Prime Minister –Fumio Kishida
+Jordan,Amman,Jordanian dinar,Arabic
+Prime Minister – Bishr Al-Khasawneh
+Kazakhstan,Nur Sultan,Tenge,Kazakh, Russian
+Prime Minister – Alihan Smaiylov
+Kenya,Nairobi,Kenya shilling,Swahili, English
+President – William Ruto
+Kiribati,Tarawa Atoll,Kiribati dollar,English, Gilbertese
+President – Taneti Mamau
+Korea, North,Pyongyang,Won,Korean
+President – Kim Jong-un
+Korea, South,Seoul,Won,Korean
+Prime Minister – Yoon Suk Yeol
+Kosovo,Pristina,Euro (German Mark prior to 2002),Albanian, Serbian, Prime Minister –Albin Kurti
+Kuwait,Kuwait City,Kuwaiti Dollar,Arabic, English, Prime Minister – Ahmad Nawaf Al-Ahmad Al-Sabah
+CountryName,Capital,Currency,OfficialLanguage
+Kyrgyzstan,Bishkek,Som,Kyrgyz, Russian
+President - Akylbek Japarov
+Laos,Vientiane,New Kip,Lao (Laotian)
+Prime Minister –Sonexay Siphandone
+Latvia,Riga,Lats,Latvian
+Prime Minister – Evika Siliņa
+Lebanon,Beirut,Lebanese pound,Arabic, French
+Prime Minister –Najib Mikati
+Lesotho,Maseru,Maluti,Sesotho, English
+Prime Minister - Sam Matekane
+Liberia,Monrovia,Liberian dollar,English,President – George Weah
+Libya,Tripoli,Libyan dinar,Arabic
+Prime Minister – Abdul Hamid Dbeibeh
+Liechtenstein,Vaduz,Swiss franc,German
+Prime Minister- Daniel Risch
+Lithuania,Vilnius,Litas,Lithuanian
+Prime Minister – Ingrida Šimonytė
+Luxembourg,Luxembourg,Euro (formerly Luxembourg franc),German, French
+Prime Minister – Xavier Bettel
+Luxembourgish
+Prime Minister – Xavier Bettel
+Macedonia,Skopje,Denar,Macedonian
+President of the Government – Stevo Pendarovski
+Madagascar,Antananarivo,Malagasy Ariary,Malagasy, French, English
+Prime Minister –Christian Ntsay
+Malawi,Lilongwe,Kwacha,English
+President – Lazarus Chakwera
+Malaysia,Kuala Lumpur,Ringgit,Malay, Prime Minister – Anwar bin Ibrahim
+Maldives,Male,Rufiyaa,Dhivehi, President – Ibrahim Mohamed Solih
+Mali,Bamako,CFA Franc,French, Prime Minister- Choguel Kokalla Maïga
+Malta,Valletta,Euro,Maltese, English, Prime Minister – Robert Abela
+Marshall Islands,Majuro,U.S. Dollar,Marshallese, English, President – David Kabua
+CountryName,Capital,Currency,OfficialLanguage
+Mauritania,Nouakchott,Ouguiya,Arabic
+Prime Minister – Mohamed Ould Bilal
+Mauritius,Port Louis,Mauritian rupee,English
+Prime Minister – Pravind Jugnauth
+Mexico,Mexico City,Mexican peso,Spanish
+President – Andrés Manuel López Obrador
+Federated States of Micronesia,Palikir,U.S. Dollar,English
+President – Wesley Simina
+Moldova,Chisinau,Leu,Moldovan (Romanian)
+Prime Minister – Dorin Recean
+Monaco,Monte Carlo,Euro,French, Italian, English
+Minister of State – Pierre Dartout
+Mongolia,Ulaanbaatar,Togrog,Mongolian
+Prime Minister – Luvsannamsrain Oyun-Erdene
+Montenegro,Podgorica,Euro,Montenegrin
+Prime Minister – Dritan Abazović
+Morocco,Rabat,Dirham,Arabic
+Prime Minister-Aziz Akhannouch
+Mozambique,Maputo,Metical,Portuguese
+Prime Minister – Adriano Maleiane
+Myanmar (Burma),Nay Pyi Taw,Kyat,Burmese
+President– Myint Swe
+Namibia,Windhoek,Namibian dollar,English, Afrikaans, German
+Prime Minister – Saara Kuugongelwa-Amadhila
+Nauru,no official capital, government offices in Yaren District,Australian dollar,English, Nauran
+President – Russ Kun
+Nepal,Kathmandu,Nepalese rupee,Nepali
+Prime Minister – Pushpa Kamal Dahal
+Netherlands,Amsterdam, The Hague (seat of government),Euro (formerly guilder),Dutch
+Prime Minister – Mark Rutte
+New Zealand,Wellington,New Zealand dollar,English
+Prime Minister – Chris Hipkins
+Nicaragua,Managua,Gold cordoba,Spanish
+President – Daniel Ortega
+Niger,Niamey,CFA Franc,French
+Prime Minister – Ali Lamine Zeine
+Nigeria,Abuja,Naira,English
+President - Bola Tinubu
+Norway,Oslo,Norwegian krone,Norwegian
+Prime Minister – Jonas Gahr Støre
+Oman,Muscat,Omani rial,Arabic, Sultan and Prime Minister – Haitham bin Tariq
+Pakistan,Islamabad,Pakistani rupee,Urdu, English
+Prime Minister – Anwaar ul Haq Kakar
+Palau,Melekeok,U.S. dollar,English, Palauan
+Vice President – Surangel S. Whipps Jr.
+Palestine,Ramallah, East Jerusalem,Palestine Pound,Arabic
+Prime Minister - Mohammad Shtayyeh
+Panama,Panama City,Balboa, U.S. dollar,Spanish
+President – Laurentino Cortizo
+Papua New Guinea,Port Moresby ,Kina,English, Tok Pisin
+Prime Minister – James Marape
+Paraguay,Asuncion,Guaraní,Spanish, Guarani
+President – Santiago Peña
+Peru,Lima,Nuevo sol (1991),Spanish
+President - Dina Boluarte
+Philippines,Manila,Peso,Filipino, English
+President – Bongbong Marcos
+Poland,Warsaw,Zloty,Polish
+President – Andrzej Duda
+Portugal,Lisbon,Euro (formerly escudo),Portuguese
+Prime Minister – António Costa
+Qatar,Doha,Qatari riyal,Arabic
+Prime Minister – Mohammed bin Abdulrahman bin Jassim Al Thani
+Romania,Bucharest,Romanian Leu,Romanian
+Prime Minister – Marcel Ciolacu
+Russia,Moscow,Ruble,Romanian
+Prime Minister – Mikhail Vladimirovich Mishustin
+Rwanda,Kigali,Rwandan franc,Russian
+Prime Minister – Édouard Ngirente
+Saint Kitts and Nevis,Basseterre,East Caribbean dollar,English
+Prime Minister – Terrance Drew
+Saint Lucia,Castries,East Caribbean dollar,English
+Prime Minister – Philip J. Pierre
+Saint Vincent and the Grenadines,Kingstown,East Caribbean dollar,English
+Prime Minister – Ralph Gonsalves
+Samoa,Apia,Tala,Samoan, English
+Prime Minister – Fiame Naomi Mata’afa
+San Marino,San Marino,Euro,Italian
+Head - HE Ms Maria Luisa Berti II and HE Mr Manuel Ciavatta I
+Sao Tome and Principe,Sao Tome,Dobra,Portuguese
+Prime Minister – Patrice Trovoada
+Saudi Arabia,Riyadh,Riyal,Arabic
+King and Prime Minister – Mohammed bin Salman
+Senegal,Dakar,CFA Franc,French
+Prime Minister – Amadou Ba
+Serbia,Belgrade,Serbian Dinar,Serbian
+Prime Minister – Ana Brnabić
+Seychelles,Victoria,Seychelles rupee,Seychellois Creole, French English
+President – Wavel Ramkalawan
+Sierra Leone,Freetown,Leone,English
+President – Julius Maada Wonie Bio
+Singapore,Singapore,Singapore dollar,English, Chinese and Malay
+Prime Minister – Lee Hsien Loong
+Slovakia,Bratislava,Euro,Slovak
+Prime Minister – Ľudovít Ódor
+Slovenia,Ljubljana,Slovenian tolar, euro (as of 1/1/07),Slovene
+Prime Minister – Robert Golob
+Solomon Islands,Honiara,Solomon Islands dollar,English
+Prime Minister – Manasseh Sogavare
+Somalia,Mogadishu,Somali shilling,Somali Arabic
+Prime Minister – Hamza Abdi Barre
+South Africa,Pretoria (administrative), Cape Town (legislative), Bloemfontein (judiciary),Rand
+Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tsonga, Tswana, Venda, Xhosa, Zulu
+President – Cyril Ramaphosa
+South Sudan,Juba,Sudanese Pound,English
+President – Salva Kiir Mayardit
+Spain,Madrid,Euro (formerly peseta),Spanish, Catalan Galician, Gasque
+Prime Minister - Pedro Sánchez
+Sri Lanka,Colombo, Sri Jayewardenepura Kotte (legislative),Sri Lankan rupee,Sinhala, Tamil
+Prime Minister - Dinesh Gunawardena
+Sudan,Khartoum,Sudanese Pound,Arabic, English, Prime Minister – Osman Hussein
+Suriname,Paramaribo,Surinamese dollar,Dutch
+President – Chabdrikapersad ‘Chan’ Santokhi
+Swaziland,Mbabane,Lilangeni,English, Swati
+Prime Minister – Cleopas Dlamini
+Sweden,Stockholm,Krona,Swedish
+Prime Minister – Ulf Kristersson
+Switzerland,Berne,Swiss franc,German, French, Italian, Romansh
+President - Alain Berset
+Syria,Damascus,Syrian pound,Arabic
+Prime Minister – Hussein Arnous
+Taiwan,Taipei,Taiwan dollar,Standard Chinese
+President - Tsai Ing-wen
+Tajikistan,Dushanbe,somoni,Tajik, Russian
+Prime Minister – Kokhir Rasulzoda
+Tanzania,Dar es Salaam, Dodoma (legislative),Tanzanian shilling,Swahili, English
+Prime Minister – Kassim Majaliwa
+Thailand,Bangkok,Baht,Thai
+Prime Minister – Srettha Thavisin
+Togo,Lome,CFA Franc,French
+Prime Minister – Victoire Tomegah Dogbé
+Tonga,Nuku'alofa,Pa'anga,English
+Prime Minister – Siaosi Sovaleni
+Trinidad and Tobago,Port-of-Spain,Trinidad and Tobago dollar,English
+Prime Minister – Keith Rowley
+Tunisia,Tunis,Tunisian dinar,Arabic
+Prime Minister - Ahmed Hachani
+Turkey,Ankara,Turkish lira (YTL),Turkish
+President – Recep Tayyip Erdoğan
+Turkmenistan,Ashgabat,Manat,Turkmen
+President – Serdar Berdimuhamedow
+Tuvalu,Vaiaku village, Funafuti province,Tuvaluan Dollar,Tuvaluan, English
+Prime Minister – Kausea Natano
+Uganda,Kampala,Ugandan new shilling,Swahili, English, Luganda
+Prime Minister – Robinah Nabbanja
+Ukraine,Kiev,Hryvnia,Ukrainian
+President - Denys Shmyhal
+United Arab Emirates,Abu Dhabi,U.A.E. Dirham,Arabic
+Prime Minister – Sheikh Mohammed bin Rashid Al Maktoum
+United Kingdom,London,Pound sterling,English
+Prime Minister – Rishi Sunak
+United States of America,Washington D.C.,Dollar,English
+President – Joe Biden
+Uruguay,Montevideo,Uruguay peso,Spanish
+President – Luis Lacalle Pou
+Uzbekistan,Tashkent,Uzbekistani sum,Uzbek
+Prime Minister – Abdulla Aripov
+Vanuatu,Port-Vila,Vatu,Bislama, French, English
+Prime Minister – Charlot Salwai
+Vatican City (Holy See),Vatican City,Euro,Italian
+President - Fernando Vérgez Alzaga
+Venezuela,Caracas,Bolivar,Spanish
+President – Nicolás Maduro
+Vietnam,Hanoi,Dong,Vietnamese
+Prime Minister - Nguyễn Phú Trọng
+Yemen,Sanaa,Rial,Arabic
+Prime Minister – Maeen Abdulmalik Saeed
+Zambia,Lusaka,Kwacha,English
+President – Hakainde Hichilema
+Zimbabwe,Harare,United States dollar,English, Shona, Ndebele
+President – Emmerson Mnangagwa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
