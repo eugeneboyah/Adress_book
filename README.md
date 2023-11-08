@@ -25,7 +25,7 @@ these are the four basic information the countryPortal will be giving out to use
 ## Tools we used
 + It is included in the instruction that we use all the lessons learned form shell basic and shell extra. Thefore, the MD file will be updated with the tools we are using before the submittion date.
 
-  ##Team A members
+  ## Team A members
   + Eugene Boyah
   + Connie Yeeson
   
