@@ -1,4 +1,4 @@
-## Country-Portal
+## Country Portal
 The countryPortal project is a project that allow users to get basic
 information about any country in the world using the terminal.
 
