@@ -4,16 +4,10 @@ information about any country in the world using the terminal.
 
 #### There are the information the program will be providing for users
 ~~~
-The capital city of that country.
-~~~
-~~~
-The country currency
-~~~
-~~~
-The language speoken in that country
-~~~
-~~~
-The head for that country
+1) The capital city of that country.
+2) The country currency
+3) The language speoken in that country
+5) The head for that country
 ~~~
 these are the four basic information the countryPortal will be giving out to user
 
@@ -30,4 +24,8 @@ these are the four basic information the countryPortal will be giving out to use
   
 ## Tools we used
 + It is included in the instruction that we use all the lessons learned form shell basic and shell extra. Thefore, the MD file will be updated with the tools we are using before the submittion date.
+
+  ##Team A members
+  + Eugene Boyah
+  + Connie Yeeson
   
