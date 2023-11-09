@@ -3,7 +3,6 @@
 
 echo "Hello, and welcome to our Country Information Portal"
 
-# Initialize an associative array to store search history
 declare -A search_history
 
 while true; do
@@ -28,7 +27,7 @@ while true; do
                 done
             fi
         elif [[ "$user_input" == [A-Za-z] ]]; then
-            # User entered a single letter, so list countries starting with that letter
+            # User Can entered a single letter, to list countries starting with that letter
             matching_countries=($(grep -i "^$user_input" countries.csv | cut -d',' -f1))
 
             if [ "${#matching_countries[@]}" -eq 0 ]; then
