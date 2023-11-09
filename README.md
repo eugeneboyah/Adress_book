@@ -49,11 +49,10 @@ Returning to the main menu.
 Enter a country name that you want to search (or 'exit' to quit):
 ~~~
 #### After user quit the program the program will display all the information user searches for in the program as a search history for review.
-eg:
++ eg:
 ~~~
 Goodbye, Eugene! Have a nice day.
 Search History:
-
 Liberia, Currency: Liberian dollar
 Liberia, Capital City: Monrovia
 Liberia, Capital City: Monrovia
