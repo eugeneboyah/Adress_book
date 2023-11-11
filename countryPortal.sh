@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Hello, and welcome to our Country Information Portal"
 
 declare -A search_history
@@ -9,7 +8,7 @@ while true; do
     read -p "Enter a country name or the first letter of a country (or 'exit' to quit): " user_input
 
     if [ "$user_input" == "exit" ]; then
-        echo "Goodbye, $userName! Have a nice day."
+        echo "Goodbye! Have a nice day."
         break
     elif [ "$user_input" == "continue" ]; then
         continue
@@ -22,21 +21,17 @@ while true; do
                 echo "No countries found."
             else
                 echo "All countries:"
-                for country_name in "${matching_countries[@]}"; do
-                    echo "- $country_name"
-                done
+                printf "%s\n" "${matching_countries[@]}" | column
             fi
         elif [[ "$user_input" == [A-Za-z] ]]; then
-            # User Can entered a single letter, to list countries starting with that letter
+            # User entered a single letter, to list countries starting with that letter
             matching_countries=($(grep -i "^$user_input" countries.csv | cut -d',' -f1))
 
             if [ "${#matching_countries[@]}" -eq 0 ]; then
                 echo "No countries start with '$user_input'."
             else
                 echo "Countries starting with '$user_input':"
-                for country_name in "${matching_countries[@]}"; do
-                    echo "- $country_name"
-                done
+                printf "%s\n" "${matching_countries[@]}" | column
             fi
         else
             # User entered a full country name, search for the country
@@ -45,17 +40,11 @@ while true; do
             if [ -n "$country_info" ]; then
                 echo "Information for $user_input:"
 
-                echo "Select an option to know more about $user_input"
-                echo "1. Capital City"
-                echo "2. Currency"
-                echo "3. Official Language"
-                echo "4. Head of Government"
-                echo "5. Exit"
+                PS3="Select an option to know more about $user_input: "
+                options=("Capital City" "Currency" "Official Language" "Head of Government" "Exit")
 
-                while true; do
-                    read -p "Enter the option number (1/2/3/4/5): " option
-
-                    case $option in
+                select option in "${options[@]}"; do
+                    case $REPLY in
                         1)
                             echo "Capital City: $(echo $country_info | cut -d',' -f2)"
                             ;;
@@ -73,10 +62,15 @@ while true; do
                             break
                             ;;
                         *)
-                            echo "Invalid option. Please select 1, 2, 3, 4, or 5."
+                            echo "Invalid option. Please select a valid option."
                             ;;
                     esac
                 done
+
+                # Add the search term to the search history
+                search_history["$user_input"]=$(date +"%Y-%m-%d %H:%M:%S")
+                echo "Search for $user_input added to the search history."
+
             else
                 echo "Country not found or misspelled. Please check the spelling and try again."
             fi
@@ -88,7 +82,12 @@ done
 
 # Print search history
 echo "Search History:"
-echo 
+echo "-------------------------------------------"
+printf "%-15s | %-20s\n" "Search Term" "Timestamp"
+echo "-------------------------------------------"
+
 for key in "${!search_history[@]}"; do
-    echo "$key: ${search_history[$key]}"
+    printf "%-15s | %-20s\n" "$key" "${search_history[$key]}"
 done
+
+echo "-------------------------------------------"
