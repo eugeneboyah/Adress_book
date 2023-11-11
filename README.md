@@ -53,11 +53,11 @@ Enter a country name that you want to search (or 'exit' to quit):
 ~~~
 Goodbye, Eugene! Have a nice day.
 Search History:
-Liberia, Currency: Liberian dollar
-Liberia, Capital City: Monrovia
-Liberia, Capital City: Monrovia
-Liberia, Official Language: English
-Liberia, Head of Government: President – George Weah
+-------------------------------------------
+Search Term     | Timestamp           
+-------------------------------------------
+ghana           | 2023-11-10 21:53:32 
+-------------------------------------------
 ~~~
  There are still features that is needed t be added to this program because at the project building, we want to
   explore all the lesson learned form shell basic and shell extra
