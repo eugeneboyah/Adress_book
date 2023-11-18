@@ -18,6 +18,7 @@ these are the four basic information the country Portal will be giving out to us
 Please enter your name: maybe you enter Eugene as your name
 the portal recognizes your name and welcome you using your name. eg:
 Hello, Eugene, and welcome to our Country Information Portal!
+ETC.
 ~~~
 #### Users will be able to search for any country using this platform. eg:
 + The portal will display a search box that allow you search for country
@@ -25,6 +26,8 @@ Hello, Eugene, and welcome to our Country Information Portal!
 Enter a country name that you want to search (or 'exit' to quit):
 If you enter Liberia as an example,
 ~~~~
+### The Country Portal will be very good for every individual, be if educated or not. because users don't have to spell the country entire name before getting the country information ( just remember the first letter for that country )
+
 #### The program will display a menu that instruct users on how to use the program.
 + If you enter the country name, the portal will display a menu that allow you select option eg:
 ~~~
@@ -48,7 +51,7 @@ Capital City: Monrovia
 Returning to the main menu.
 Enter a country name that you want to search (or 'exit' to quit):
 ~~~
-#### After user quit the program the program will display all the information user searches for in the program as a search history for review.
+#### The Program is modify to store not just the fact that a search was performed but also the details of the search results. That is, after user quit the program the program will display all the information user searches for in the program as a search history for review.
 + eg:
 ~~~
 Goodbye, Eugene! Have a nice day.
@@ -63,7 +66,36 @@ ghana           | 2023-11-10 21:53:32
   explore all the lesson learned form shell basic and shell extra
   
 ## Tools we used
-+ It is included in the instruction that we use all the lessons learned form shell basic and shell extra. Therefore, the MD file will be updated with the tools we are using before the submitting date.
++ Pipes and Filters
+~~~
+ echo, cut, pipe,  wildcards(*)
+~~~
++ Awk
+~~~
+awk -F',' '{print $1}
+~~~
++ Finding Things
+~~~
+grep
+~~~
++ Shell Variables
+~~~
+variable
+~~~
++ While loop
+~~~
+for reading from files
+~~~
++ Conditionals, Functions
+~~~
+if else fi elif case esac else
+~~~
++ Reading and writing from and to file(s)
+~~~
+something that works
+~~~
++ OPorator
++ etc.
 
   ## Team A members
   + Eugene Boyah
