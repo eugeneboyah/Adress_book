@@ -26,7 +26,7 @@ ETC.
 Enter a country name that you want to search (or 'exit' to quit):
 If you enter Liberia as an example,
 ~~~~
-### The Country Portal will be very good for every individual, be if educated or not. because users don't have to spell the country entire name before getting the country information ( just remember the first letter for that country )
+### The Country Portal will be very good for every individual, be if educated or not. because users don't have to spell the country entire name before getting the country information ( just remember the first letter for that country ) even if you don't the first letter at all, wildcard (*) will help you view the country list to fine the country you are looking for.
 
 #### The program will display a menu that instruct users on how to use the program.
 + If you enter the country name, the portal will display a menu that allow you select option eg:
