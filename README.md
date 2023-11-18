@@ -98,7 +98,7 @@ if else fi elif case esac else
 ~~~
 something that works
 ~~~
-+ OPorator
++ OPerators
 + etc.
 
   ## Team A members
