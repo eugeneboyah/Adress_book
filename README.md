@@ -82,6 +82,10 @@ grep
 ~~~
 variable
 ~~~
++ Loop
+~~~
+for loop
+~~~
 + While loop
 ~~~
 for reading from files
